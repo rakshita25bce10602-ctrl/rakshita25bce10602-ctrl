@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn&fontAlignY=38&fontAlign=50" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+rakshita ranjan+👋;I'm+a+Software engineer;Building things on the internet" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Rakshita+Ranjan+👋;I'm+a+Software+Engineer;Building+things+on+the+internet" alt="Typing SVG"/>
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
 </div>
