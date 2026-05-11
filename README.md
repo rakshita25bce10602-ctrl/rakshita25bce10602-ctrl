@@ -24,14 +24,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/Rakshita@22482)
 </p>
 
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=Python,SQL,HTML&perline=8"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=GITHUB,CLAUDE&perline=8"/>
-</div>
-
 ## 📊 My GitHub Stats
 
 <div align="center">
@@ -75,10 +67,8 @@
 
 - 🔭 Currently working on **Pursuing B.Tech in Computer Science Engineering.**
 - 🌱 Currently learning **Engineering fundamentals and core Computer Science concepts.**
-- 🎯 Goal: **YOUR_GOAL**
-- 📍 Based in **YOUR_CITY, YOUR_COUNTRY**
-- 📫 Reach me at **YOUR_EMAIL**
-- ⚡ Fun fact: **YOUR_FUN_FACT**
+- 📍 Based in **BHOPAL**
+- 📫 Reach me at **rakshita22482@gmail.com**
 
 ## 🛠️ Skills
 
